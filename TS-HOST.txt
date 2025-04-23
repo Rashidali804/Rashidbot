@@ -10,9 +10,9 @@ def encode_credentials(username, password):
 
 def login():
 
-    correct_username = "SATISH-BHAI"
+    correct_username = "RASHIDALI804"
 
-    correct_password = "T.S.BRAND"
+    correct_password = "RASHID1122"
 
     username_input = input("Enter username:")
 
